@@ -1,101 +1,96 @@
-# 👋 Hi, I'm Sahil Yadav
+👋 Hi, I'm Sahil Yadav
+🛡️ Cybersecurity Student | Sheridan College | ISC2 Certified in Cybersecurity (CC)
 
-### 🛡️ Cybersecurity Student | Sheridan College | Toronto, Canada
+I'm pursuing an Honours Bachelor of Information Sciences (Cybersecurity) at Sheridan College, building on a Computer Systems Technician diploma with a solid foundation in IT infrastructure, networking, and system administration.
 
-I'm a cybersecurity student focused on developing practical skills in **security operations, threat detection, incident response, networking, and system administration**.
+I build hands-on experience with Wireshark, Nmap, Burp Suite, Metasploit, and Kali Linux through TryHackMe labs and college coursework, and I'm looking for a co-op or entry-level role in security where I can apply my skills, keep learning, and help protect organizations from evolving threats.
 
-I'm currently building my knowledge through coursework, hands-on labs, certifications, and cybersecurity learning experiences.
+📍 Ontario, Canada
 
----
+<p align="left"> <a href="Sahil-Yadav_resume.pdf"> <img src="https://img.shields.io/badge/📄_View_My_Resume-PDF-D14836?style=for-the-badge" /> </a> <a href="https://www.linkedin.com/in/mrsahilyadav"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:yadsahil@sheridancollege.ca"> <img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+🧠 Cybersecurity Interests
+🔐 Security Operations (SOC)
+🎯 Threat Detection & Incident Response
+🔎 Vulnerability Assessment
+🌐 Network Security
+📋 GRC: Risk Assessment & Security Controls
+🗺️ MITRE ATT&CK & OWASP
+☁️ Cloud Security
+💻 Technical Skills
+Cybersecurity
 
-## 🧠 Cybersecurity Interests
+Security Monitoring Threat Detection Incident Response Vulnerability Assessment SIEM MITRE ATT&CK OWASP
 
-- 🔐 Security Operations (SOC)
-- 🎯 Threat Detection & Incident Response
-- 🌐 Network Security
-- 🪟 Windows & Windows Server
-- ⚡ PowerShell
-- 🐧 Linux
-- ☁️ Cloud Security
-- 🕵️ Threat Hunting
-- 🗺️ MITRE ATT&CK
-- 🔎 Digital Forensics
+GRC
 
----
+Risk Assessment Security Controls Compliance Governance Risk Management
 
-## 💻 Technical Skills
+Security Tools
 
-### Security
-`Cybersecurity` `Threat Detection` `Incident Response` `MITRE ATT&CK` `OWASP`
+Wireshark Nmap Burp Suite Metasploit Kali Linux
 
-### Systems
-`Windows` `Windows Server` `PowerShell` `Linux`
+Networking
 
-### Programming
-`C` `C++` `Python`
+TCP/IP DNS DHCP VPN Routing & Switching
 
-### Cloud
-`AWS` `Azure`
+Systems
 
-### Tools & Technologies
-`Git` `GitHub` `Django` `Jira`
+Windows Linux Windows Server Active Directory
 
----
+Cloud
 
-## 📚 Currently Learning
+AWS (EC2, S3, IAM)
 
-- Security Operations & Detection Engineering
-- Cloud Security
-- Incident Response
-- Threat Hunting
-- MITRE ATT&CK
-- Cybersecurity Automation
+Programming
 
----
+Python Bash C/C++ Django
 
-## 🎓 Education
+Tools
 
-**Sheridan College**  
-Honours Bachelor of Information Sciences – Cybersecurity
+Jira Technical Documentation
 
----
+📚 Currently Learning
+Security Operations & Detection
+Cloud Security (AWS)
+Incident Response
+Vulnerability Assessment & Penetration Testing
+MITRE ATT&CK
+Cybersecurity Automation with Python & Bash
+🎓 Education
 
-## 🚀 Projects & Labs
+Sheridan College
+Honours Bachelor of Information Sciences (Cybersecurity) | 2025 – 2028
 
-I'm currently building my hands-on cybersecurity experience through:
+George Brown College
+Computer Systems Technician (Diploma)
 
-- 🧪 Cybersecurity labs
-- 🪟 Windows administration and security labs
-- ⚡ PowerShell automation
-- 🌐 Networking exercises
-- 🔐 Security monitoring and detection practice
+🏆 Certifications & Training
+✅ ISC2 Certified in Cybersecurity (CC), 2025
+✅ TryHackMe Cyber Security 101, 2025
+✅ CCNA: Enterprise Networking, Security, and Automation
+✅ CCNA: Routing and Switching Essentials
+✅ CCNA: Introduction to Networks
+💼 Experience Highlights
+Learner & CTF Player, TryHackMe (Nov 2024 – Present): hands-on labs in networking, threat intelligence, and security tooling
+Team Lead, Portside Warehousing & Distribution: led a team of 12, produced operational reports, and trained staff
+Head Shipper, MD Food Transport: accurate documentation, issue escalation, and deadline-driven operations
+Security Professional → Mobile Supervisor → Control Room Dispatcher, GardaWorld (2020 – 2023): incident documentation, escalation, and response coordination
+🚀 Projects & Labs
 
-**Projects coming soon.**
+I'm building hands-on experience through:
 
----
+🧪 TryHackMe labs and CTF challenges
+🌐 Networking and CCNA lab exercises
+🔐 Vulnerability assessment practice with Nmap, Burp Suite, and Metasploit
+🐧 Linux and Windows Server administration labs
 
-## 🏆 Certifications & Training
+Project write-ups coming soon.
 
-- Microsoft Security Fundamentals
-- CompTIA Security+ *(in progress / planned)*
-- Cloud Security Training
-- Cybersecurity Coursework & Hands-on Labs
+🤝 Connect With Me
 
----
+I'm always happy to talk security, share what I'm learning, or hear about co-op and entry-level opportunities.
 
-## 🤝 Connect With Me
+<p align="left"> <a href="Sahil-Yadav_resume.pdf"> <img src="https://img.shields.io/badge/📄_Resume-Download-D14836?style=for-the-badge" /> </a> <a href="https://www.linkedin.com/in/mrsahilyadav"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:yadsahil@sheridancollege.ca"> <img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+🌐 LEARN • CONNECT • GROW
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mrsahilyadav">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🌐 LEARN • CONNECT • GROW
-
-*Always learning. Always building. Always improving.*
+Always learning. Always building. Always improving.
