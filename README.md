@@ -10,7 +10,7 @@ I'm interested in **Security Operations, Threat Detection, Incident Response, Ne
 
 ---
 <p align="left">
-  <a href="Sahil-Yadav_resume.pdf">
+  <a href="Sahil_Yadav_Resume.pdf">
     <img src="https://img.shields.io/badge/📄_Resume-View_Resume-D14836?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/mrsahilyadav">
